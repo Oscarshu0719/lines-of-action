@@ -44,11 +44,11 @@ python main.py
 ## GUI
 
 - Mainwindow.
-  ![main_window](readme_img\main_window.PNG)
+  ![image](https://github.com/Oscarshu0719/lines-of-action/blob/master/readme_img/main_window.PNG)
 - Left-click the chess to highlight the legal movements.
-  ![main_window](readme_img\highlight_grid.PNG)
+  ![image](https://github.com/Oscarshu0719/lines-of-action/blob/master/readme_img/highlight_grid.PNG)
 - Right-click to quit.
-  ![main_window](readme_img\right_click.PNG)
+  ![image](https://github.com/Oscarshu0719/lines-of-action/blob/master/readme_img/right_click.PNG)
 
 ## License
 
